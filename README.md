@@ -1,39 +1,41 @@
 
 Privacy Policy
 
-本隐私政策介绍本公司的隐私数据相关政策和惯例，这将涵盖我们如何收集、使用、处理、存储和/或披露那些通过本公司移动App收集的关于您的个人信息。请你仔细阅读我们的隐私政策。
+This Privacy Policy describes our privacy policy related policies and practices, which will cover how we collect, use, process, store and/or disclose personal information about you collected through our Mobile App. Please read our privacy policy carefully.
 
-一、本公司如何收集您的个人信息
+1. How does the company collect your personal information?
 
-个人信息是可用于唯一地识别或联系某人的数据。
-当您使用本公司的移动App，注册用户过程中我们将会收集您的个人信息，如：电子邮件地址、电话号码。为了保护个人隐私，您不应提供除本公司特别要求之外的任何其它信息。
+Personal information is data that can be used to uniquely identify or contact someone.
+When you use our mobile app, we will collect your personal information, such as email address and phone number, during the process of registering users. In order to protect your privacy, you should not provide any information other than our special requirements.
 
-二、本公司如何使用您的个人信息
+2. how the company uses your personal information
 
-1、通过您的个人信息，向您发送本公司移动App的服务信息。
-2、通过您的个人信息实现密码找回功能。
-3、除本公司发生重组、合并或出售，可将我们收集的一切个人信息转让给相关第三方外，本公司不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和本公司单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些信息。
+A、Send your service information about our mobile app through your personal information.
+B、Implement password recovery through your personal information.
+C、Except for the reorganization, merger or sale of the Company, all personal information we collect may be transferred to the relevant third parties. The Company will not provide, sell, rent, share or trade your personal information to any unrelated third parties unless prior You are licensed, or the third party and the company provide services to you individually or jointly, and after the service is terminated, it will be blocked from accessing all such information that it has previously been able to access.
+ 
 
-三、个人信息安全
 
-保证您的个人数据的安全对我们来说至关重要。当您在本公司的移动App中注册输入个人数据时，我们会利用安全套接字层技术 (SSL) 对这些信息进行加密。
-在数据传输和数据保管两个阶段里，我们会通过广为接受的行业标准（如防火墙、加密和数据隐私法律要求）来保护您向我们提交的信息.
-然而，没有任何一种互联网传输或电子存储方法是100%安全的。因此，尽管我们通过商业上可接受的方式来保护您的个人信息，但仍无法保证信息的绝对安全。
+3. Personal information security
 
-四、本公司会将个人信息保存多久
+Keeping your personal data safe is critical to us. When you register your personal data in our mobile app, we encrypt it with Secure Sockets Layer (SSL).
+In both the data transfer and data retention phases, we protect the information you submit to us through widely accepted industry standards such as firewall, encryption, and data privacy legal requirements.
+However, no Internet transmission or electronic storage method is 100% secure. Therefore, although we protect your personal information in a commercially acceptable manner, there is no guarantee that the information will be absolutely secure.
 
-一般来说，本公司仅保留您的个人信息至履行收集目的所需的期限，同时将遵守适用法律规定的数据保留期限。
+4. How long will the company keep personal information?
 
-五、法律免责声明
+In general, the company only retains your personal information for the period required to perform the collection, and will comply with the data retention period as required by applicable law.
+ 
+5. Legal disclaimer
 
-在法律要求的情况下，以及本公司认为必须披露与您有关的信息来保护本公司的法定权益和/或遵守司法程序、法院指令或适用于本公司的移动App的法律程序时，我们有权透露您的个人信息。
-如果本公司确定为了执行本公司的条款和条件或保护我们的经营，披露是合理必须的，则我们可披露与您有关的信息。
+We have the right to do so when required by law and if the company believes that it must disclose information about you to protect the company's statutory rights and/or comply with judicial procedures, court orders or legal procedures applicable to the company's mobile app. Disclose your personal information.
+If the Company determines that disclosure is reasonable and necessary in order to enforce the terms and conditions of the Company or to protect our operations, we may disclose information about you.
 
-六、本隐私政策的更改
+6. Changes to this privacy policy
 
-如果决定更改隐私政策，我们会在本政策中、本公司网站中以及我们认为适当的位置发布这些更改，以便您了解我们如何收集、使用您的个人信息，哪些人可以访问这些信息，以及在什么情况下我们会透露这些信息。
-本公司保留随时修改本政策的权利，因此请经常查看。如对本政策作出重大更改，本公司会通过网站通知的形式告知。
+If we decide to change our privacy policy, we will post these changes in this policy, on our website, and in locations we deem appropriate, so that you can understand how we collect and use your personal information, who can access it, and at what We will disclose this information in case.
+The company reserves the right to modify this policy at any time, so please check it frequently. In the event of a material change to this policy, the Company will notify you by notice on the website.
 
-七、隐私问题
+7. Private issues
 
-如果你对本公司的隐私政策或数据处理有任何问题或顾虑，请通过邮箱63981165@qq.com与本公司联系。
+If you have any questions or concerns about our privacy policy or data processing, please contact us at 63981165@qq.com.
