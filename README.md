@@ -1,5 +1,5 @@
 
-Privacy Policy
+# Privacy Policy
 
 This Privacy Policy describes our privacy policy related policies and practices, which will cover how we collect, use, process, store and/or disclose personal information about you collected through our Mobile App. Please read our privacy policy carefully.
 
