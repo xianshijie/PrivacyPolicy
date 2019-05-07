@@ -38,4 +38,4 @@ The company reserves the right to modify this policy at any time, so please chec
 
 7. Private issues
 
-If you have any questions or concerns about our privacy policy or data processing, please contact us at j2e7r3@yeah.net
+If you have any questions or concerns about our privacy policy or data processing, please contact us at se4chuhan@163.com
