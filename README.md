@@ -1,6 +1,7 @@
 
 # Privacy Policy
 
+
 This Privacy Policy describes our privacy policy related policies and practices, which will cover how we collect, use, process, store and/or disclose personal information about you collected through our Mobile App. Please read our privacy policy carefully.
 
 1. How does the company collect your personal information?
@@ -38,4 +39,4 @@ The company reserves the right to modify this policy at any time, so please chec
 
 7. Private issues
 
-If you have any questions or concerns about our privacy policy or data processing, please contact us at josamdye3@163.com
+If you have any questions or concerns about our privacy policy or data processing, please contact us at lanpo91357139@yeah.net
