@@ -39,4 +39,5 @@ The company reserves the right to modify this policy at any time, so please chec
 
 7. Private issues
 
-If you have any questions or concerns about our privacy policy or data processing, please contact us at lanpo91357139@yeah.net
+If you have any questions or concerns about our privacy policy or data processing, please contact us at huangshi3797430@yeah.net
+
