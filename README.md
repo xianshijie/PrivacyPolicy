@@ -14,8 +14,6 @@ When you use our mobile app, we will collect your personal information, such as 
 A、Send your service information about our mobile app through your personal information.
 B、Implement password recovery through your personal information.
 C、Except for the reorganization, merger or sale of the Company, all personal information we collect may be transferred to the relevant third parties. The Company will not provide, sell, rent, share or trade your personal information to any unrelated third parties unless prior You are licensed, or the third party and the company provide services to you individually or jointly, and after the service is terminated, it will be blocked from accessing all such information that it has previously been able to access.
- 
-
 
 3. Personal information security
 
